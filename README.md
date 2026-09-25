@@ -68,15 +68,16 @@ well-structured solutions.
 
 ### 📚 Formación en curso · Currently learning
 
-- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** — Udemy
+- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** — Amazon
 - 📱 **Android Basics with Compose** — Google
 - 🟨 **The Complete JavaScript Course 2025: From Zero to Expert!** — Udemy
 - 🐍 **100 Days of Code: Python** — Udemy
 - 🌐 **Networking Basics** — Cisco
-- 🐙 **GitHub Foundations**
+- 🐙 **GitHub Foundations** - Github
 - 🤖 **Desarrollo asistido por IA con Claude** — Anthropic
 
 ### 📜 Certifications
 
 - Database Programming with SQL — Oracle (2025)
 - Supervised Learning with scikit-learn — DataCamp (2026)
+- AWS Certified AI Practitioner - Amazon (2026)
